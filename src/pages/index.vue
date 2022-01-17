@@ -11,7 +11,7 @@
           />
 
           <div class="text-center">
-            <h2 class="text-lg">Abdulbaki "EGGSY" Dursun</h2>
+            <h2 class="text-lg">SwitchAlpha</h2>
             <div
               class="select-none cursor-pointer text-purple-500 mb-1"
               @click="randomRank"
@@ -30,9 +30,8 @@
       <div class="text-left">
         <h1 class="text-lg title">Who am I?</h1>
         <p class="appear text-left">
-          I am a Turkish student who is interested in programming and English literature. I
-          am trying my best to bring useful and good ideas to the world, I program for fun,
-          necessity or time-killing, I am actually trying to become an English teacher.
+          I am a Turkish student who is interested in programming and English language. I
+          am trying to develop some useful things for society.
         </p>
       </div>
 
